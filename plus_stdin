@@ -1,5 +1,6 @@
 #!/usr/bin/pyton3
-#SPDX-FileCopyright: 2022 Yamamoto Shintarou 
+# SPDX-FileCopyright: 2022 Yamamoto Shintarou 
+# SPDX-License-Identifier: BSD-3-Clause
 
 import sys 
 
