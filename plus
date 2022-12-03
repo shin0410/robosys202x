@@ -1,4 +1,4 @@
-#!/usr/bin/pyton3
+#!/usr/bin/python3
 # SPDX-FileCopyright: 2022 Yamamoto Shintarou 
 # SPDX-License-Identifier: BSD-3-Clause
 
@@ -12,4 +12,3 @@ for line in sys.stdin:
         ans += float(line)
 
 print(ans)
-
